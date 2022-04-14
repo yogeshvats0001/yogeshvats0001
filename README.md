@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Yogesh Vats (@yogeshvats0001).
 - 👀 I’m interested in role of Software Development Engineer.
 - 🌱 I’m currently learning Django, Python.
-- 💞️ I’m currently working as a Java Developer.
+- 💞️ I’m currently working as a Java, JavaScript Developer.
 - 📫 How to reach me on Gmail - yogisharma1062@gmail.com; Phone - +91 969 769 0001
 
 <!---
