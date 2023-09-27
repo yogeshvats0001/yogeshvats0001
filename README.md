@@ -1,5 +1,5 @@
 # 💫 I'm YOGESH VATS:
-🔭 I’m currently working on Full Stack Application in India.<br>👯 I’m looking to collaborate on Web Development.<br>🤝 I’m looking for help with Web Development and projects.<br>🌱 I’m currently learning deep concepts of Reactjs, JavaScript, Python.<br>💬 Ask me about Software Development and Core Java.<br>⚡ Fun fact : Development is an everyday learning process.
+🔭 I’m currently working on Web Development in India.<br>👯 I’m looking to collaborate on Web Development remotely.<br>🤝 I’m looking for help with Web Development and projects.<br>🌱 I’m currently learning deep concepts of Reactjs, JavaScript, Python.<br>💬 Ask me about Software Development, MERN and Core Java.<br>⚡ Fun fact : Development is an everyday learning process.
 
 
 ## 🌐 Socials:
